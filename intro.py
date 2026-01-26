@@ -24,7 +24,25 @@ for i in fusion:
 
 #Securing Data
 '''
-
+Hashing, password and converting it to hash value
+    ex : sha-224/256/384/(512|224)/(512|256)
+         sha3-224/256/384/512
+rainbow tables, 
+salting, to make hashing a little bit different. ex, if 2 or more person have the same pass, it would be still different
+depend on, industry, country, and regulatory environment
+encode, plaintext to codetext
+decode, codetext to plaintext
+ciphers, algorithmic
+encrypt - decrypt
+secret-key cryptography
+DSA
+ECDSA
+RSA, c = m(e) mod n
+     m = c(d) mod n
+Diffie-Hellman, s = b(a) mod p
+                s = a(b) mod p
 '''
+
+#Securing systems
 
 
