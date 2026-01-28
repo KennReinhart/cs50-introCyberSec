@@ -44,5 +44,22 @@ Diffie-Hellman, s = b(a) mod p
 '''
 
 #Securing systems
+'''
+'''
 
+#Securing software
+'''
+stored attack, 
+character escapes, removing dangerous character (&lt(<); &gt(>); &amp(&); &quot(""); &apos('')
+use of style-src instead of <script src="..."></script>
+JSX, javascript and html combination. would have to use an external file
+sql injection, in databases. ans prepared answers
+command injection
+'''
+
+'''
+Arbitrary code execution (ACE)
+Remote code execution (RCE)
+buffer overflow
+'''
 
