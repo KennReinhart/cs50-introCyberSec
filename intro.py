@@ -55,11 +55,23 @@ use of style-src instead of <script src="..."></script>
 JSX, javascript and html combination. would have to use an external file
 sql injection, in databases. ans prepared answers
 command injection
-'''
-
-'''
 Arbitrary code execution (ACE)
 Remote code execution (RCE)
 buffer overflow
+stack overflow
+Open source software, doesnt mean safe. it's just open for audiences to audit. trust is key
+bug bounty
+Common vulnerabilities and exposures (CVE)
+Common vulnerability scoring system (CVSS)
+exploit prediction scoring system (EPSS)
+known exploited vulnerabilities catalog (KEV)
+'''
+
+#Preserving privacy
+'''
+Web Browsing History
+Logs
+HTTP Headers
+
 '''
 
